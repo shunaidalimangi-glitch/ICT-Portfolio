@@ -1,5 +1,5 @@
-1. My name is [Your Name].
-2. I am a first-semester BS Computer Science student at MAJU.
+1. My name is Shunaid Ali
+2. I am a first-semester BS Software Engineering student at MAJU.
 3. I am interested in software development and AI.
-4. I enjoy problem solving and learning new technologies.
+4. I enjoy problem-solving and learning new technologies.
 5. My goal is to become a professional software engineer.
